@@ -1,0 +1,39 @@
+body {
+        background: linear-gradient(to right,#ffffff, #ffc0cb);
+}
+#card {
+    background-color: darkgray;
+    width: 300px;
+    padding: 30px;
+    border-radius: 20px;
+}
+#card img {
+    width: 80%;
+    border-radius: 30px;
+}
+#card h3 {
+    font-size: 24px;
+    margin-left: 15px;
+}
+#card p {
+    font-weight: 300;
+    margin: 16px 0px 16px 15px;
+}
+.navbar {
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+  background-color: #f8f9fa;
+  padding: 10px 20px;
+  box-shadow: 0 8px 10px rgba(0,0,0,0.1);
+}
+#card button {
+  margin-left: 15px;
+    padding: 20px 30px;
+    border: none;
+    color: #ffff;
+    background-color: royalblue;
+    border-radius: 20px;
+}
+
+
